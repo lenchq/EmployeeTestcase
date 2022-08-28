@@ -1,6 +1,11 @@
-#Реализцаия данного тест-кейса:
+# Реализация данного тест-кейса:
 
-<!-- test coverage badge -->
+<!-- badges -->
+<div style="text-align: center;">
+<img src="https://github.com/lenchq/EmployeeTestcase/actions/workflows/dotnet.yml/badge.svg">
+<img src="https://img.shields.io/badge/tests-passing-brightgreen" alt="">
+<!-- <img src="https://img.shields.io/github/license/lenchq/EmployeeTestcase" alt=""> -->
+</div>
 
 ```
 Необходимо создать консольный проект в котором реализуются следующие классы: "Сотрудник",
